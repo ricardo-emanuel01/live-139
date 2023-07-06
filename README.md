@@ -1,4 +1,4 @@
-# Live de Python #139 -> SQLAlchemy ORM
+# Live de Python #139 -> [SQLAlchemy](https://www.sqlalchemy.org/) ORM
 
 Nessa live percebi que o SQLAlchemy não é um banco de dados, ele é apenas uma ferramentas para utilizarmos no gerenciamento de um banco de dados (como o SQLite3, nos exemplos) em Python.
 
